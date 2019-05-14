@@ -104,3 +104,7 @@ venv.bak/
 .mypy_cache/
 
 *.csv
+
+clean_positive_train\.txt
+
+clean_negative_train\.txt
