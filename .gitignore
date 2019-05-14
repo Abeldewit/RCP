@@ -103,4 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-*.csv
+
+comments_negative\.csv
+
+comments_positive\.csv
